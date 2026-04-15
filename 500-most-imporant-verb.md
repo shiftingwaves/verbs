@@ -497,3 +497,5 @@
 | **498.** | Spell | Hijje / Ishara karna | Spelt | Spelt | Spelling |
 | **499.** | Saturate | Bhigona / Tar-batar | Saturated | Saturated | Saturating |
 | **500.** | Sweat | Paseena ana | Sweated | Sweated | Sweating |
+| **501.** | Offset | Poora karna | Offset | Offset | Offsetting |
+| **502.** | Nip | Tabah karna | Nipped | Nipped | Nipping |
